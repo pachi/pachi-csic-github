@@ -19,6 +19,3 @@ This is my first repository to store information from my research on XXXX.
 
 # Session 1: Exercises 3 from rvillar
 - Created a new branch for development.
-
-# Session 1: Exercises 3 from bmoreira
-- Created a new branch for development.
